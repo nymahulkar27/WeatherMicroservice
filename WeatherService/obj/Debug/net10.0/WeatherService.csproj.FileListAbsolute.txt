@@ -31,3 +31,4 @@
 /home/ubantu/github/WeatherMicroservice/WeatherService/obj/Debug/net10.0/WeatherService.pdb
 /home/ubantu/github/WeatherMicroservice/WeatherService/obj/Debug/net10.0/WeatherService.genruntimeconfig.cache
 /home/ubantu/github/WeatherMicroservice/WeatherService/obj/Debug/net10.0/ref/WeatherService.dll
+/home/ubantu/github/WeatherMicroservice/WeatherService/obj/Debug/net10.0/WeatherService.sourcelink.json
